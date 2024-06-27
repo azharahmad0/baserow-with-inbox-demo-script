@@ -73,7 +73,8 @@ This guide will help you set up a local demo environment on your MacBook using D
      ```json
      {
       "text": "New update in Baserow: \n Field1: {{ field1 }} \n Field2: {{ field2 }}"
-     }```
+     }
+     ```
   
 4. Link the two agents to form a workflow.
 
