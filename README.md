@@ -9,9 +9,10 @@ This guide will help you set up a local demo environment on your MacBook using D
 ## Step 1: Download the Installation Script
 
 1. Create a new directory on your MacBook where you want to set up the demo environment:
-   1a. Open the terminal.
-   1b. Run the following command to create a new directory: `mkdir ~/baserow_demo`
-   1c. Change the directory to the newly created one:`cd ~/baserow_demo`
+
+   1. Open the terminal.
+   2. Run the following command to create a new directory: `mkdir ~/baserow_demo`
+   3. Change the directory to the newly created one:`cd ~/baserow_demo`
 
 2. Download the installation script from: [TODO HOST THE SCRIPT - AZHAR](github.com/azharahmad/todo_upload_script)
 
