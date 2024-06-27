@@ -14,7 +14,7 @@ This guide will help you set up a local demo environment on your MacBook using D
    2. Run the following command to create a new directory: `mkdir ~/baserow_demo`
    3. Change the directory to the newly created one:`cd ~/baserow_demo`
 
-2. Download the installation script from: [TODO HOST THE SCRIPT - AZHAR](github.com/azharahmad/todo_upload_script)
+2. Download the installation script from: [[TODO HOST THE SCRIPT - AZHAR](github.com/azharahmad/todo_upload_script)](https://github.com/azharahmad0/baserow-with-inbox-demo-script/)
 
 ## Step 2: Run the Installation Script
 
@@ -36,16 +36,16 @@ This guide will help you set up a local demo environment on your MacBook using D
 
 #### Default Login Credentials
 
-   1. Username: admin
+   1. Username: `admin`
    2. Email: <admin@example.com>
-   3. Password: Admin@123
+   3. Password: `Admin@123`
 
 ### Huginn
 
    1. URL: <http://localhost:3001>
    2. Default Login Credentials:
-   3. Username: admin
-   4. Password: password
+   3. Username: `admin`
+   4. Password: `password`
 
 ## Step 4: Configure Webhooks in Mattermost
 
