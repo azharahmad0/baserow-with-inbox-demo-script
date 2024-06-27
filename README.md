@@ -15,13 +15,11 @@ This guide will help you set up a local demo environment on your MacBook using D
    3. Change the directory to the newly created one:`cd ~/baserow_demo`
 
 2. Download the installation script from: [script](https://github.com/azharahmad0/baserow-with-inbox-demo-script).
-## Step 2: Run the Installation Script
+## Step 2: Run the Installation Script (This script will install and configure Baserow, Mattermost, and Huginn on your local machine)
 
 1. Open the terminal.
 2. Make the script executable: `chmod +x install_and_configure_local.sh`
 3. Run the script: `./install_and_configure_local.sh`  
-
-### This script will install and configure Baserow, Mattermost, and Huginn on your local machine
 
 ## Step 3: Access the Services
 
