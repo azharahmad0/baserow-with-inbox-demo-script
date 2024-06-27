@@ -84,3 +84,9 @@ This script will install and configure Baserow, Mattermost, and Huginn on your l
 2. Import the CSV file to Baserow.
 3. Create a new table in Baserow.
 4. Import the CSV file to the new table by clicking on the "Import" button.
+
+## Step 7: Uninstall
+
+1. open terminal
+2. run `chmod +x uninstall_demo.sh` command to make the uninstall script executable
+3. run `./uninstall_demo.sh` to execute the script
